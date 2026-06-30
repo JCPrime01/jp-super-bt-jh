@@ -28,7 +28,7 @@
 
     const shareCode = '&shareCode=QY3MR187GKA'
     
-    const afp = '&afp=da'
+    const afp = '&afp=jh'
     
     const source = '&home=1'
 
